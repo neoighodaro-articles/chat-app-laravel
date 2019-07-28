@@ -1,6 +1,8 @@
 # Laravel app built with Chatkit
 This repository shows a live chat chat app built with Laravel and Chatkit
 
+Tutorial: https://pusher.com/tutorials/live-chat-laravel
+
 ## Getting Started
 
 Clone the repository. The repository contains a Laravel project. You can run the project with this command:
